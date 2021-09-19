@@ -1,0 +1,3 @@
+DROP TABLE track;
+DROP TABLE category;
+DROP TABLE CD;
